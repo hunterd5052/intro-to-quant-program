@@ -12,4 +12,4 @@ Grade the process, not just the result. A well-reasoned loss is fine; a lucky wi
 
 ## Files
 
-- [2026-11-03 · Check-in 1](2026-11-03-checkin-01.md): IDXX, FUL, exit GRMN
+- [2026-11-03 · Check-in 1](2026-11-03-checkin-01.md): $250 trading account opened; IDXX, FUL
