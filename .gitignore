@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local data (the snapshot database is rebuilt by the fetchers)
+data/*.db
+data/cache/
+
+# Secrets: API keys and your SEC contact email live here, never in code
+.env
